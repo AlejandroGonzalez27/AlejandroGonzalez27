@@ -23,7 +23,7 @@
 ### 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,csharp,kotlin,mysql,git,intellij,androidstudio,vscode,linux,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,git,intellij,vscode,linux,html,css,javascript" />
 </p>
 
 ---
