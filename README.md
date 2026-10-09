@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy Alejandro González</h1>
 
-<!--
-**AlejandroGonzalez27/AlejandroGonzalez27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlejandroGonzalez27&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/badge/Estudiante-DAM-orange?style=flat-square&logo=graduation-cap" alt="DAM" />
+  <img src="https://img.shields.io/badge/Status-Buscando_Nuevos_Retos-green?style=flat-square" alt="Status" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  👨‍💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) apasionado por crear software eficiente, limpio y escalable tanto para escritorio como para móvil.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mí
+
+- 📚 Actualmente aprendiendo y exprimiendo al máximo **Java, C#, Kotlin y SQL**.
+- 💡 Me interesa el desarrollo backend, las bases de datos y la creación de apps multiplataforma.
+- 🎯 Mi meta actual: Dominar la arquitectura limpia y la programación orientada a objetos para aplicarlas en proyectos reales.
+- 📫 ¿Quieres contactar conmigo? Conéctate en [LinkedIn](https://linkedin.com/in/tu-usuario) o echa un vistazo a mis repositorios.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroGonzalez27&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroGonzalez27&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+</p>
