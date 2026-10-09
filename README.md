@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola,%20Mundo!%20👋%20Soy%20Alejandro&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola,%20Mundo!%20%20Soy%20Alejandro&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
@@ -11,16 +11,16 @@
 
 ---
 
-### 🚀 Sobre mí
+###  Sobre mí
 
-- 📚 Cursando **DAM (Desarrollo de Aplicaciones Multiplataforma)**, construyendo bases sólidas en software.
-- 💻 Me apasiona el desarrollo backend, la gestión de bases de datos y la creación de experiencias fluidas en escritorio y móvil.
-- 🎯 **Objetivo actual:** Dominar la programación orientada a objetos, la arquitectura limpia y frameworks modernos.
-- 📫 ¿Conectamos? Encuéntrame en [LinkedIn](https://linkedin.com/in/tu-usuario) o echa un vistazo a mis proyectos.
+-  Cursando **DAM (Desarrollo de Aplicaciones Multiplataforma)**, construyendo bases sólidas en software.
+-  Me apasiona el desarrollo backend, la gestión de bases de datos y la creación de experiencias fluidas en escritorio y móvil.
+-  **Objetivo actual:** Dominar la programación orientada a objetos, la arquitectura limpia y frameworks modernos.
+-  ¿Conectamos? Encuéntrame en [LinkedIn](https://linkedin.com/in/tu-usuario) o echa un vistazo a mis proyectos.
 
 ---
 
-### 🛠️ Stack Tecnológico
+###  Stack Tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,git,webstorm,vscode,linux,html,css,javascript" />
@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 Estadísticas y Actividad
+###  Estadísticas y Actividad
 
 <table align="center">
   <tr>
