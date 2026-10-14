@@ -15,7 +15,7 @@
 -  Cursando **DAM (Desarrollo de Aplicaciones Multiplataforma)**, construyendo bases sólidas en software.
 -  Me apasiona el desarrollo backend, la gestión de bases de datos y la creación de experiencias fluidas en escritorio y móvil.
 -  **Objetivo actual:** Dominar la programación orientada a objetos, la arquitectura limpia y frameworks modernos.
--  ¿Conectamos? Encuéntrame en [LinkedIn](https://linkedin.com/in/tu-usuario) o echa un vistazo a mis proyectos.
+-  ¿Conectamos? Encuéntrame en [LinkedIn]([https://linkedin.com/in/tu-usuario](https://es.linkedin.com/in/alejandro-gonz%C3%A1lez-c%C3%A1ceres-80a7443b4?trk=people-guest_people_search-card)) o echa un vistazo a mis proyectos.
 
 ---
 
