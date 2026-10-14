@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlejandroGonzalez27&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
   <img src="https://img.shields.io/badge/Estudiante-DAM-orange?style=flat-square&logo=graduation-cap" alt="DAM" />
   <img src="https://img.shields.io/badge/Status-Buscando_Nuevos_Retos-green?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Foco-Desarrollo_Multiplataforma-blue?style=flat-square&logo=android" alt="Foco" />
